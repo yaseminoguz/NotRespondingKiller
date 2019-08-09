@@ -1,0 +1,10 @@
+C:\Users\Matriks\source\repos\NotRespondingKiller\NotRespondingKiller\bin\Debug\NotRespondingKiller.exe.config
+C:\Users\Matriks\source\repos\NotRespondingKiller\NotRespondingKiller\bin\Debug\NotRespondingKiller.exe
+C:\Users\Matriks\source\repos\NotRespondingKiller\NotRespondingKiller\bin\Debug\NotRespondingKiller.pdb
+C:\Users\Matriks\source\repos\NotRespondingKiller\NotRespondingKiller\obj\Debug\NotRespondingKiller.csprojAssemblyReference.cache
+C:\Users\Matriks\source\repos\NotRespondingKiller\NotRespondingKiller\obj\Debug\NotRespondingKiller.Form1.resources
+C:\Users\Matriks\source\repos\NotRespondingKiller\NotRespondingKiller\obj\Debug\NotRespondingKiller.Properties.Resources.resources
+C:\Users\Matriks\source\repos\NotRespondingKiller\NotRespondingKiller\obj\Debug\NotRespondingKiller.csproj.GenerateResource.cache
+C:\Users\Matriks\source\repos\NotRespondingKiller\NotRespondingKiller\obj\Debug\NotRespondingKiller.csproj.CoreCompileInputs.cache
+C:\Users\Matriks\source\repos\NotRespondingKiller\NotRespondingKiller\obj\Debug\NotRespondingKiller.exe
+C:\Users\Matriks\source\repos\NotRespondingKiller\NotRespondingKiller\obj\Debug\NotRespondingKiller.pdb
