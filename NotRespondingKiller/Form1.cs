@@ -52,7 +52,7 @@ namespace NotRespondingKiller
             arr[1] =  path;            
             itm = new ListViewItem(arr);
             listView1.Items.Add(itm);
-            StreamWriter sw =File.AppendText("C:\\Users\\Matriks\\Desktop\\kayıt.txt");
+            StreamWriter sw =File.AppendText("C:\\kayıt.txt");
             sw.WriteLine(arr[0] + " "+arr[1] + " Kontrol mSn: "+ kontrol_sn+" Bekleme mS "+bekleme_sn);            
             sw.Flush();
             sw.Close();           
